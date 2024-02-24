@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "chatgdp.helloWorld",
-        "title": "Hello World"
+        "title": "ChatGDP"
       }
     ]
   },
